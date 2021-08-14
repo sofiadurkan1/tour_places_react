@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tour_places_react/static/css/main.5b57f4e8.chunk.css",
+    "main.js": "/tour_places_react/static/js/main.bbd469a9.chunk.js",
+    "main.js.map": "/tour_places_react/static/js/main.bbd469a9.chunk.js.map",
+    "runtime-main.js": "/tour_places_react/static/js/runtime-main.83d464a7.js",
+    "runtime-main.js.map": "/tour_places_react/static/js/runtime-main.83d464a7.js.map",
+    "static/js/2.ba45188a.chunk.js": "/tour_places_react/static/js/2.ba45188a.chunk.js",
+    "static/js/2.ba45188a.chunk.js.map": "/tour_places_react/static/js/2.ba45188a.chunk.js.map",
+    "index.html": "/tour_places_react/index.html",
+    "static/css/main.5b57f4e8.chunk.css.map": "/tour_places_react/static/css/main.5b57f4e8.chunk.css.map",
+    "static/js/2.ba45188a.chunk.js.LICENSE.txt": "/tour_places_react/static/js/2.ba45188a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83d464a7.js",
+    "static/js/2.ba45188a.chunk.js",
+    "static/css/main.5b57f4e8.chunk.css",
+    "static/js/main.bbd469a9.chunk.js"
+  ]
+}

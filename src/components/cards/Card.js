@@ -3,10 +3,6 @@ import {data} from '../../helper/Data';
 import './Card.css';
 
 
-
-
-
-
 function Card(){
     return(
         <div className='card-container'>
